@@ -1,0 +1,19 @@
+body{background-color: chartreuse;}
+
+.conteiner{
+    margin: auto;
+    padding: 20;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    place-items: center;
+    height:50vh;
+    background-color: azure;
+    
+}
+
+button{background-color: chartreuse; width: 190px; height: 30px; border: 0cap; color: white;}
+
+.name{width: 190px; height: 30px; border: 0cap;}
+
+.password{width: 190px; height: 30px; border: 0cap;}
